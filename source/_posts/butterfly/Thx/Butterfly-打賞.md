@@ -1,0 +1,14 @@
+---
+title: Butterfly 打賞
+tags:
+  - butterfly
+  - 打賞
+categories:
+  - Thx
+cover: 'https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/butterfly-donate-cover.png'
+excerpt: 非常感謝網友的打賞
+date: 2021-04-20 16:20:44
+link:
+---
+
+<div class="note orange icon flat"><i class="note-icon fas fa-mug-hot"></i><p>非常感謝以下網友的打賞</p><p>更新於 2021-03-17</p></div><h2 id="Wechat"><a href="#Wechat" class="headerlink" title="Wechat"></a>Wechat</h2><table><thead><tr><th>名字</th><th>金額</th></tr></thead><tbody><tr><td>B*X</td><td>2.33</td></tr><tr><td>A*.</td><td>0.01</td></tr><tr><td>*虎</td><td>3</td></tr><tr><td>*、</td><td>5</td></tr><tr><td>*林</td><td>3.75</td></tr><tr><td>*雪</td><td>10</td></tr><tr><td>O*r</td><td>15</td></tr><tr><td>*泥</td><td>0.01</td></tr><tr><td>*嗎</td><td>5</td></tr><tr><td>*鋒</td><td>10</td></tr><tr><td>*強</td><td>5</td></tr><tr><td>K*n</td><td>6.66</td></tr><tr><td>*1</td><td>2.22</td></tr><tr><td>圖*_</td><td>5</td></tr><tr><td>B*e</td><td>6.66</td></tr><tr><td>n*l</td><td>6.66</td></tr><tr><td>*仔</td><td>5</td></tr><tr><td>M*5</td><td>2</td></tr><tr><td>w*r</td><td>18.88</td></tr><tr><td>*龍</td><td>1.6</td></tr><tr><td>*一</td><td>5</td></tr><tr><td>*晨</td><td>6.66</td></tr><tr><td>*隨</td><td>8.88</td></tr><tr><td>*忘</td><td>10</td></tr><tr><td>*想</td><td>6.66</td></tr><tr><td>*喜</td><td>2.5</td></tr><tr><td>*喜</td><td>2.5</td></tr><tr><td>*傑</td><td>8.88</td></tr><tr><td>*雨</td><td>10</td></tr><tr><td>T*r</td><td>10</td></tr><tr><td>T*n</td><td>2.88</td></tr><tr><td>s*n</td><td>2</td></tr><tr><td>*o</td><td>9.99</td></tr><tr><td>m*o</td><td>2.5</td></tr><tr><td>張*i</td><td>0.3</td></tr><tr><td>*斌</td><td>2.88</td></tr><tr><td>q*n</td><td>20</td></tr><tr><td>*唯</td><td>8.88</td></tr><tr><td>H*n</td><td>5</td></tr><tr><td>I*U</td><td>3.65</td></tr><tr><td>*白</td><td>6</td></tr><tr><td>*猪</td><td>6.66</td></tr><tr><td>h*i</td><td>10</td></tr><tr><td>B*g</td><td>5</td></tr><tr><td>J*R</td><td>3</td></tr><tr><td>*埃</td><td>6.66</td></tr><tr><td>等*.</td><td>12.5</td></tr></tbody></table><hr><h2 id="Alipay"><a href="#Alipay" class="headerlink" title="Alipay"></a>Alipay</h2><table><thead><tr><th>名字</th><th>金額</th></tr></thead><tbody><tr><td>iMIGw0</td><td>10</td></tr><tr><td>百事可樂</td><td>10</td></tr><tr><td>KT</td><td>5</td></tr><tr><td>JVxie</td><td>8.88</td></tr><tr><td>Coolkk</td><td>10</td></tr><tr><td>Sirius</td><td>10</td></tr><tr><td>惴繞</td><td>1.11</td></tr><tr><td>Jiang慢慢</td><td>8.88</td></tr><tr><td>tjj</td><td>28.88</td></tr><tr><td>無風引漩</td><td>10</td></tr><tr><td>忘我楊</td><td>50</td></tr><tr><td>小虎</td><td>10</td></tr><tr><td>無殤雨露</td><td>10</td></tr><tr><td>Rhythm~</td><td>10</td></tr><tr><td>小樣</td><td>36</td></tr><tr><td>SunnyWS</td><td>20</td></tr><tr><td>ZFour</td><td>8.88</td></tr><tr><td>JeM_緘默</td><td>0.14</td></tr><tr><td>小張</td><td>5</td></tr><tr><td>書生</td><td>6.88</td></tr><tr><td>王青陽</td><td>5</td></tr><tr><td>趙碧寒</td><td>10</td></tr></tbody></table>
